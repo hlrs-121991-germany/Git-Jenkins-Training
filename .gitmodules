@@ -1,0 +1,3 @@
+[submodule "matchmaking_rest_user"]
+	path = matchmaking_rest_user
+	url = https://github.com/hlrs-121991-germany/matchmaking_rest_user.git
